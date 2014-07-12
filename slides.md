@@ -143,16 +143,17 @@ just to break this system?"
 
 ## Discourage security
 
-Tell programmers that "100% security is impossible" so they shouldn't
-even try.
+Tell programmers that "<font color="red">100% security is
+impossible</font>" so they shouldn't even try.
 
-Tell programmers that "defining security is impossible" so it can't be
-implemented.
+Tell programmers that "<font color="red">defining security is
+impossible</font>" so it can't be implemented.
 
 Hide/dismiss/mismeasure security metric #1.
 
-Prioritize compatibility, "standards", speed, etc. e.g.: " An HTTP
-server in the kernel is critical for performance."
+Prioritize compatibility, "standards", speed, etc. e.g.: "<font
+color="red">An HTTP server in the kernel is critical for
+performance.</font>"
 
 
 ## What is security?
@@ -302,7 +303,8 @@ Why should this be manual?
 Browser creates process that downloads news-20140710 from Frank's web
 server. 
 
-(" Creating a process is slow. " - Oh, shut up already.)
+("<font color="red">Creating a process is slow.</font>" - Oh, shut up
+already.)
 
 OS automatically adds URL as a source for the process. Process shows
 me the file. OS tells me the URL.
