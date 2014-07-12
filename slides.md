@@ -1,10 +1,10 @@
-*We have to **watch and listen to everything that people are doing**
+*We have to <b>watch and listen to everything that people are doing</b>
 so that we can catch terrorists, drug dealers, pedophiles, and
 organized criminals. Some of this data is sent unencrypted through the
 Internet, or sent encrypted to a company that passes the data along to
-us, but we learn much more when we have **comprehensive direct access
+us, but we learn much more when we have <b>comprehensive direct access
 to hundreds of millions of disks and screens and microphones and
-cameras**.*
+cameras</b>.*
 
 *This talk explains how we've successfully manipulated the world's
 software ecosystem to ensure our continuing access to this wealth of
