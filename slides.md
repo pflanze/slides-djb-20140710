@@ -1,3 +1,5 @@
+([Original slides](http://cr.yp.to/talks/2014.07.10/slides-djb-20140710-a4.pdf))
+
 *We have to <b>watch and listen to everything that people are doing</b>
 so that we can catch terrorists, drug dealers, pedophiles, and
 organized criminals. Some of this data is sent unencrypted through the
